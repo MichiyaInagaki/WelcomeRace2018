@@ -1,4 +1,4 @@
-# About *KINECT�~BOXERCISE*
+﻿# About *KINECT×BOXERCISE*
 You can play "Boxercise" on this game.  
 
 # Demo Movie
